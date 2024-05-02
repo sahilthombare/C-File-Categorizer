@@ -8,10 +8,11 @@ Platform: Cross-platform ( macOS, Linux)
 Architectural Requirements:
 
 Architecture: Object-Oriented
-User Interface:
 
+User Interface:
 UI Type: Command-Line Tool
 UI Features: The command-line interface allows users to input the directory path for file organization. After analyzing the directory, the tool categorizes files into different folders based on their extensions, creating new folders if necessary. Users receive feedback on the categorized files and the organization process.
+
 Technology Stack:
 
 Front-End: Command-Line Interface (Terminal)
